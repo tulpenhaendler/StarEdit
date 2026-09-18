@@ -124,3 +124,7 @@ sudo python3 tools/extract_items.py \
   /opt/starrupture/server/StarRupture/Content/Paks/pakchunk0-WindowsServer.utoc > internal/items/items.txt
 go build -o staredit .
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE). Not affiliated with the makers of StarRupture.
