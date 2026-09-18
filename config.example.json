@@ -1,0 +1,11 @@
+{
+  "save": "/opt/starrupture/server/StarRupture/Saved/SaveGames/StarRuptureServer/AutoSave0.sav",
+  "data_dir": "/opt/starrupture/server/StarRupture/Saved/SaveGames",
+  "backup_dir": "backups",
+  "stop_script": "stop_server.sh",
+  "start_script": "start_server.sh",
+  "players": {
+    "alice": "76561198000000001",
+    "bob": "76561198000000002"
+  }
+}

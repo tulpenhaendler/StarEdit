@@ -1,0 +1,7 @@
+# local settings, real save data and backups - never commit
+/config.json
+/testdata/
+/backups/
+*.sav
+
+/staredit
